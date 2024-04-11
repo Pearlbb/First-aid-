@@ -1,0 +1,126 @@
+ <html>
+<htmllang='en'
+<head>
+<marquee> welcome to health care information website </marquee>
+<title> emergency health care information and simple methods of treatment </title>
+<style>
+body{
+font-family:Arial,sans-serif;
+marrgin:0;
+padding:0;
+}
+header{
+background colour:#4CAF50;<
+colour:white;
+padding:20px;
+text align:center;
+}
+nav{
+background colour:#333;
+
+over flow:hidden;
+}
+nav a{
+float:left;
+color:white;
+text-align:center;
+padding:14px 16px;
+text decoration:none;
+}
+nav a:hover{
+background-color:#ddd;
+color:black;
+}
+main{
+padding:20px;
+}
+footer{
+background color:#333;
+color:white;
+text align:center;
+padding:10px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>indegenous health care information</h1>
+</header>
+<nav>
+<li><a href="#"on click="showcontent('home')></a></li>
+<li><a href="#"on click="showcontent('about')></a></li>
+<li><a href="#"on click="showcontent('healthcare services')</a></li>
+<li><a/href="#"on click="showcontent('resources)</a></li>
+<a/href="#"contact</a>
+</nav>
+<main>
+<h2>welcome to indegenous health care website<h2/>
+<p>here you can find information about health care services, resources and important first aid measures totake in case of an emergency</p>
+<h3>featured topics</h3>
+<ul>
+<li>animal bites first aid</a></li>
+<li>maternal and child health</a></li>
+<li>mental health and well being</a></li>
+<li>emergency first aid measur</a></li>
+<li>snake bite first aid</a></li>
+<li>road accident first aid</li>
+</ul>
+<h4><b><font face="times new roman"size="18">FIRST AID</font></h4></b>
+<p>First aid is the immediate life saving measure given to a person suffering from a minor or seriousinjury or illness before the arrival of the doctor or any medical personnel</p>
+<h5><b><font face="times new roman"size="18">some common emergencies and their first aids</font></h5></b>
+<h6><b><font face="times new roman"size="14">1 Animal Bites e.g dog and cat</font></h6></b>
+<li>Wash the wound with mild soap and water</li>
+<li>if the wound is bleeding, apply pressure using a clean towel</li>
+<li>apply anti biotic ointment on the injury</li>
+<li>keep the wound elevated above the heart to prevent swelling</li>
+<li>catch the animal if possible </li>
+<li>reassure the victim and help him/her meet a doctor</li>
+<h7><b><font face="times new roman"size="14">2 snake bites</font></h7></b>
+<li>remove jewelry or watches from area of the bite</li>
+<li>keep the area of the bite below the heart to slow the spread of the venom</li>
+<li>keep the person calm and at rest</li>
+<li>use a razor or a sharp knife and cut into the fang mark to let blood flow out. if possible, suck the venom with your mouth and spit it out </li>
+<li>cover the bite with a clean loose fitting bandage</li>
+<li>make sure the victim does not move to avoid spread of the venom</li>
+<li>tie a cloth above the bite, fairly firm but not too tight to avoid spread of the venom</li>
+<li>if possible, kill the snake and take it to the doctor</li>
+<h8><b><font face="times new roman"size="14">3 insect bites eg scorpion sting</font></h8></b>
+<li> tie a piece of rope fairly above the sting to prevent the spread of venom in blood</li>
+<li>use twizzers to remove the sting from the body</li>
+<li>place ice on the sting </li>
+<li>clean the wound with mild soap and water and apply balm</li>
+<li>give pain killer to reduce pain</li>
+<h9><b><font face="times new roman"size="14">4 epelepsy</h9></b></font>
+<li>remove all hard or sharp objects around the victim</li>
+<li>don't put anything in the mouth of the victim, he or she cannot swallow or bite his tongue</li>
+<li>place a soft material under the head and loosen any tight clothing</li>
+<li>do not give the victim anything to eat or drink untill he is fully recovered</li>
+<li>gently place the victim on his sight to keep the the airways clear when he recovers</li>
+<li>stay beside the victim untill he regains unconsciousness</li>
+<p>it is a common practice for people to run away in all directions when a person is having a fit.it is not infectious and cannot be caught.running away will not help the patient. we should rather try to help the patient as explained above</p>
+<h10><b><font face ="times new roman"size="14">5 nose Bleeding</h10></b></font>
+<li>let the victim seat down upright and remain calm</li>
+<li>let him lean slightly forward</li>
+<li>drop the head slightly forward</li>
+<li>pinch the nostrils below the bridge of the nose and apply direct pressure with the thumb and index fingers for atleast 10 minutes to stop the flow of blood</li>
+<li>spit out any blood in the mouth</li>
+<li>encourage the victim to breath through his/her mouth while pinching the nostrils</li>
+<h11><b><font face ="times new roman"size="18">6 Fainting</h11></font></b>
+<li>let the patient sit or lie down with the head lower than the knee</li>
+<li>loosen any tight clothing</li>
+<li>on recovery, sips of water should be given</li>
+<h12><b><font face="times new roman"size="14">7 stroke</font></b></h12>
+<li>remove clothing and immediately cool the body using ice blocks or sprinkle water</li>
+<li>massage arms and legs to assist in blood circulation</li>
+<li>if consciousness is regained,give the person cold drinks containing salt. else, contact the doctor</li>
+<h13><b><font face="times new roman"size="14">8 drowning</h13></b></font>
+<li>use rope or long stick to pull out the victim</li>
+<li>turn the victim to face downward</li>
+<li>use a clean cloth over a finger and clear the mouth off any mud, or weed</li>
+<li>loosen any tight clothing found around the neck and waist and carry out artificial respiration</li>
+</main>
+<footer>
+<p>&copy;2024 health care information. by pearl All rights reserved.</p>
+</footer>
+</body>
+</html> 
